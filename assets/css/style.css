@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+}
+
+#game-area {
+    background-color: lightgray;
+    width: 480px;
+    height: 360px;
+    margin: 0 auto;
+}
+
+#character {
+    width: 30px;
+    height: 30px;
+    position: relative;
+    top:0;
+    left:0;
+    background-color: black;
+}
